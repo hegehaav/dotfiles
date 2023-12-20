@@ -1,3 +1,1 @@
-rm -rf ~/.config/kitty
-ln -s ~/dotfiles/kitty ~/.config/kitty
-
+ln -s ~/.oh-my-zsh/custom/zshrc ~/.zshrc
